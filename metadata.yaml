@@ -1,1 +1,5 @@
 homepage: "https://www.monks.com"
+documentation: ""
+versions:
+  - sha: 929e233c47e92765eb88137f72edb7183da6458e
+    changeNotes: Initial release.
